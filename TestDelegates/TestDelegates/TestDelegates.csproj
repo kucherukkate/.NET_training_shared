@@ -42,8 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class2.cs" />
     <Compile Include="InterfaceTester.cs" />
     <Compile Include="ITestingParams.cs" />
+    <Compile Include="ITestingParams2.cs" />
     <Compile Include="NextClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

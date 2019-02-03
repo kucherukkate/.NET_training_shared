@@ -22,7 +22,7 @@ namespace TestDelegates
         static void Main(string[] args)
         {
             InterfaceTester it1 = new InterfaceTester(), it2 = new InterfaceTester(), it3 = new InterfaceTester(), it4 = new InterfaceTester();
-            NextClass nc1 = new NextClass();
+            NextClass2 nc1 = new NextClass2();
 
             Console.WriteLine(it1.add(2, 4));
 

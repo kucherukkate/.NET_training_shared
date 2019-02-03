@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestDelegates
 {
-    class NextClass : ITestingParams
+    class NextClass2 : ITestingParams
     {
         public string className {get; set;}
 
-        public NextClass()
+        public NextClass2()
         {
             className = "NextClass";
         }

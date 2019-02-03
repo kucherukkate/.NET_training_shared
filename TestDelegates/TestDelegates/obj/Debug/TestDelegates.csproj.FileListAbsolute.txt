@@ -5,3 +5,10 @@ D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.csprojAssemb
 D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.csproj.CoreCompileInputs.cache
 D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.exe
 D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.pdb
+D:\Backup 060718\ (F)\C# Test_GitHub\.NET_training_shared\TestDelegates\TestDelegates\bin\Debug\TestDelegates.exe.config
+D:\Backup 060718\ (F)\C# Test_GitHub\.NET_training_shared\TestDelegates\TestDelegates\bin\Debug\TestDelegates.exe
+D:\Backup 060718\ (F)\C# Test_GitHub\.NET_training_shared\TestDelegates\TestDelegates\bin\Debug\TestDelegates.pdb
+D:\Backup 060718\ (F)\C# Test_GitHub\.NET_training_shared\TestDelegates\TestDelegates\obj\Debug\TestDelegates.csprojAssemblyReference.cache
+D:\Backup 060718\ (F)\C# Test_GitHub\.NET_training_shared\TestDelegates\TestDelegates\obj\Debug\TestDelegates.csproj.CoreCompileInputs.cache
+D:\Backup 060718\ (F)\C# Test_GitHub\.NET_training_shared\TestDelegates\TestDelegates\obj\Debug\TestDelegates.exe
+D:\Backup 060718\ (F)\C# Test_GitHub\.NET_training_shared\TestDelegates\TestDelegates\obj\Debug\TestDelegates.pdb
