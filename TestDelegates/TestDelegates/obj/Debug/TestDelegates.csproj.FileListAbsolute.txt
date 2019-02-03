@@ -1,0 +1,7 @@
+D:\source\repos\TestDelegates\TestDelegates\bin\Debug\TestDelegates.exe.config
+D:\source\repos\TestDelegates\TestDelegates\bin\Debug\TestDelegates.exe
+D:\source\repos\TestDelegates\TestDelegates\bin\Debug\TestDelegates.pdb
+D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.csprojAssemblyReference.cache
+D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.csproj.CoreCompileInputs.cache
+D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.exe
+D:\source\repos\TestDelegates\TestDelegates\obj\Debug\TestDelegates.pdb
